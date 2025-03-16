@@ -52,7 +52,7 @@ def mcts_cot(problem, model, prm, iter_num = 100):
         #simulate
         value, final_state = simulate(node.state, model, prm)
 
-        #response
+        #backpropagation
         while node:
             node.visits += 1
             node.value += value
