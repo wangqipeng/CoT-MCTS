@@ -1,0 +1,1 @@
+This project design and implement an enhanced Monte Carlo Tree Search (MCTS) algorithm tailored for reasoning with Large Language Models (LLMs). It aims to improve reasoning accuracy, speed, and interpretability over traditional methods like Chain-of-Thought (CoT) and existing MCTS variants.
